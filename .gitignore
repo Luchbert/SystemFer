@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*Ejecute System32_cmd
 # C extensions
 *.so
 #.log_5377190030/eggs
